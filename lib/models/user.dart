@@ -1,5 +1,5 @@
 
-class User{
+class User {
   String name;
   int age;
   List<String> profesions;
